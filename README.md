@@ -3,7 +3,7 @@
  Build a Machine Learning Model to predict the payment date of an invoice when it gets created in the system.
 
 
-<img src="https://github.com/anushkagarg5653//blob/main/src/img.png"/></p>
+<img src="https://github.com/anushkagarg5653/AI-Enabled-Fintech-B2B-Application/blob/main/src/img.png"/></p>
 
 </p>
 
